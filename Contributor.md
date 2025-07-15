@@ -20,3 +20,6 @@
  - start the image - docker run -p 3000:3000 user-project
 
  ## docker compose installation steps
+
+  - Install docker, docker-compose
+  - Run `docker-compose up`
